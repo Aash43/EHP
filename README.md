@@ -4,7 +4,7 @@ Developed for use with chrome and tested on chrome version 81.0.4044.129.
 
 ## Table of contents
 - [Features](#Features)
-- [Aim of project](#Aim-of-project)
+- [Aim of project](#Aim-of-prodject)
 - [Installation and Usage](#Installation-and-Usage)
 - [Next Phase](#Next-Phase)
 - [License](#License)
