@@ -1,0 +1,8 @@
+command 1: 
+document.getElementsByClassName("btn btn-lg secondaryStyle noCapitalize big")[0].click();
+
+command 2: 
+window.removeEventListener('blur', getEventListeners(window).blur[0].listener);
+
+command 3: 
+document.removeEventListener("fullscreenchange" ,getEventListeners(document).fullscreenchange[0].listener);
