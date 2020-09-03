@@ -1,6 +1,7 @@
 # EHP(exam hack program)
 Hack for exam.net - made by JamesRob123.<br>
 Developed for use with chrome and tested on chrome version 81.0.4044.129.
+THIS IS DOESN'T WORK ANYMORE AND AN UPADTE IS ONE THE WAY!
 
 ## Table of contents
 - [Features](#Features)
