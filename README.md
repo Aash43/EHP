@@ -1,5 +1,5 @@
 # EHP(exam hack program)
-THIS DOESN'T WORK ANYMORE AND AN UPADTE IS ONE THE WAY!<br>
+IMPORTANT: This program doesn't work anymore but there is a temporary solution you can use, which I show in this video: https://www.youtube.com/watch?v=EGeiFFL9ePY<br>
 Hack/cheat for exam.net - made by JamesRob123.<br>
 Developed for use with chrome and tested on chrome version 81.0.4044.129.
 
